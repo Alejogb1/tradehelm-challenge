@@ -1,10 +1,8 @@
-
-
 import * as io from "socket.io"
-
+import cors from "cors"
 const server = new io.Server(5000, {
     cors: {
-        origin: "http:localhost:3000"
+        origin: "http://localhost:5000"
     },
 })
 
