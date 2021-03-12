@@ -1,0 +1,23 @@
+{
+  "name": "votacion-productos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejogb1/votacion-productos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejogb1/votacion-productos/issues"
+  },
+  "homepage": "https://github.com/Alejogb1/votacion-productos#readme",
+  "dependencies": {
+    "ws": "^7.4.4"
+  }
+}
